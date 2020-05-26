@@ -2,3 +2,5 @@
 cc.en.300.vec*
 **/*.DS_Store
 **/*glove.*
+**/*.h5
+**/*.csv

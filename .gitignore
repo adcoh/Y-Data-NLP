@@ -5,3 +5,6 @@ cc.en.300.vec*
 **/*.h5
 **/*.csv
 **/*wandb
+**/*.ipynb_checkpoints
+
+**/*.json*
